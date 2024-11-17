@@ -7,7 +7,7 @@
 1./NGINX
 
 kubectl apply -f deployemnt.yml --------
-(it will ddeploy deployemnt .yml file to deploy application )
+(it will deploy deployemnt .yml file to deploy application )
 
 kubectl apply -f service.yml-----------
 (service.yml file used to access application outsid to world on different services like Cluster-ip,Nodeprt-mode,loadbalancer)
