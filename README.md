@@ -16,4 +16,4 @@ kubectl apply -f service.yml-----------
 
 kubectl get deploy -----to see deployments
 
-kubectl get sc  ----------- to see services
+kubectl get svc  ----------- to see services
